@@ -1,13 +1,13 @@
 # Docker Learning
 This repository contains implementation of docker images and container for learning purpose and is sepecially designed for the docker-based implemnentation of Node JS, such that there is separate docker for the frontend, backend and a data volume for the MangoDB. 
 
-## [Backend](backend/README.md)
+## [Backend](backend/)
 The backend directory contains a collection of Dockerfiles for learning how to build Docker images for backend applications.
 
-## [Frontend](frontend/README.md)
+## [Frontend](frontend/)
 The frontend directory contains a collection of Dockerfiles for learning how to build Docker images for frontend applications.
 
-## [Fullstack](fullstack/README.md)
+## [Fullstack](fullstack/)
 The fullstack directory contains a collection of Dockerfiles for learning how to build Docker images for fullstack Node JS applications.
 
 ## Background
