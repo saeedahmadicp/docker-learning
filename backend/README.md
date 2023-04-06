@@ -4,6 +4,7 @@ execute the following commands to build the docker container
 cd backend
 docker-compose build 
 docker-compose up -d mongo 
+docker-compose up -d app
 ```
 
 command for enlisting the docker images 
