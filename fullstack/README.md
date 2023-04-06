@@ -1,7 +1,7 @@
 ## Backend docker setup
 execute the following commands to build and run the docker container
 ```bash
-cd backend
+cd fullstack
 docker-compose build 
 docker-compose up -d mongo 
 docker-compose up -d app
