@@ -2,7 +2,8 @@
 execute the following commands to build the docker container
 ```bash
 cd backend
-docker build -t simple-backend-node .
+docker-compose build 
+docker-compose up -d mongo 
 ```
 
 command for enlisting the docker images 
