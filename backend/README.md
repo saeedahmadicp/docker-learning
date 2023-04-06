@@ -27,6 +27,10 @@ command for running the docker image
 docker run -p 4000:4000 simple-backend-node or docker run -p 4000:4000 <image id>
 ```
 
+command for stopping the docker compose
+```bash
+docker-compose stop
+```
 
 command for stopping the docker container
 ```bash
