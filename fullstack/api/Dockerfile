@@ -1,7 +1,7 @@
 FROM node
 
 # Create app directory
-WORKDIR /usr/src/app
+WORKDIR /app
 
 # Copy package.json to main directory
 COPY package*.json ./
