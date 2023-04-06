@@ -2,7 +2,7 @@
 execute the following commands to build the docker container
 ```bash
 cd frontend
-docker build -t frontend-react .
+docker build -t frontend .
 ```
 
 Now the frontend is running on port 4000, you can check it by hitting the following url
@@ -22,13 +22,13 @@ docker logs <container id>
 
 command for running the docker image
 ```bash
-docker run -p 3000:3000 frontend-react or docker run -p 4000:4000 <image id>
+docker run -p 3000:3000 frontend or docker run -p 3000:3000 <image id>
 ```
 
 
 command for stopping the docker container
 ```bash
-docker stop frontend-react or docker stop <container id>
+docker stop frontend or docker stop <container id>
 ```
 
 command for enlisting the docker containers 
@@ -38,5 +38,5 @@ docker ps -a
 
 command for deleting the docker images 
 ```bash
-docker rmi frontend-react or docker rmi <image id>
+docker rmi frontend or docker rmi <image id>
 ```
