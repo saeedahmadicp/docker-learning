@@ -32,11 +32,6 @@ command for stopping the docker compose
 docker-compose stop
 ```
 
-command for stopping the docker container
-```bash
-docker stop simple-backend-node or docker stop <container id>
-```
-
 command for enlisting the docker containers 
 ```bash
 docker ps -a

@@ -28,7 +28,7 @@ docker run -p 3000:3000 frontend-react or docker run -p 4000:4000 <image id>
 
 command for stopping the docker container
 ```bash
-docker stop simple-backend-node or docker stop <container id>
+docker stop frontend-react or docker stop <container id>
 ```
 
 command for enlisting the docker containers 
