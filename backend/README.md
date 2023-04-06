@@ -1,7 +1,3 @@
-# node-docker
-Simple node and express docker 
-
-
 ## Simple backend docker
 execute the following commands to build and run the docker image
 
