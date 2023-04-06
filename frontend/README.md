@@ -38,5 +38,5 @@ docker ps -a
 
 command for deleting the docker images 
 ```bash
-docker rmi simple-backend-node
+docker rmi frontend-react or docker rmi <image id>
 ```
