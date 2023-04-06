@@ -1,14 +1,14 @@
 # Docker Learning
-This repository contains a collection of Dockerfiles and other resources for learning Docker.
+This repository contains implementation of docker images and container for learning purpose and is sepecially designed for the docker-based implemnentation of Node JS, such that there is separate docker for the frontend, backend and a data volume for the MangoDB. 
 
-## Backend
-The [backend](backend/README.md) directory contains a collection of Dockerfiles for learning how to build Docker images for backend applications.
+## [Backend](backend/README.md)
+The backend directory contains a collection of Dockerfiles for learning how to build Docker images for backend applications.
 
-## Frontend
-The [frontend](frontend/README.md) directory contains a collection of Dockerfiles for learning how to build Docker images for frontend applications.
+## [Frontend](frontend/README.md)
+The frontend directory contains a collection of Dockerfiles for learning how to build Docker images for frontend applications.
 
-## Fullstack
-The [fullstack](fullstack/README.md) directory contains a collection of Dockerfiles for learning how to build Docker images for fullstack applications.
+## [Fullstack](fullstack/README.md)
+The fullstack directory contains a collection of Dockerfiles for learning how to build Docker images for fullstack Node JS applications.
 
 ## Background
 Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package. By doing so, thanks to the container, the developer can rest assured that the application will run on any other machine regardless of any customized settings that machine might have that could differ from the machine used for writing and testing the code. 
