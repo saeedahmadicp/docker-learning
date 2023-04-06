@@ -1,6 +1,5 @@
 ## Simple backend docker
-execute the following commands to build and run the docker image
-
+execute the following commands to build the docker container
 ```bash
 cd backend
 docker build -t simple-backend-node .
@@ -11,13 +10,13 @@ command for enlisting the docker images
 docker images
 ```
 
-command for running the docker image 
+command for running the docker image
 ```bash
 docker run -p 4000:4000 simple-backend-node or docker run -p 4000:4000 <image id>
 ```
 
 
-command for stopping the docker image 
+command for stopping the docker container
 ```bash
 docker stop simple-backend-node or docker stop <container id>
 ```
