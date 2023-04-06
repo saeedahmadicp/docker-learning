@@ -2,13 +2,16 @@
 This repository contains a collection of Dockerfiles and other resources for learning Docker.
 
 ## Backend
+[Backend](backend/README.md)
 The backend directory contains a collection of Dockerfiles for learning how to build Docker images for backend applications.
 
 ## Frontend
+[Frontend](frontend/README.md)
 The frontend directory contains a collection of Dockerfiles for learning how to build Docker images for frontend applications.
 
-## Full Stack
-The fullstack directory contains a collection of Dockerfiles for learning how to build Docker images for full stack applications.
+## Fullstack
+[Fullstack](fullstack/README.md)
+The fullstack directory contains a collection of Dockerfiles for learning how to build Docker images for fullstack applications.
 
 ## Background
 Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package. By doing so, thanks to the container, the developer can rest assured that the application will run on any other Linux machine regardless of any customized settings that machine might have that could differ from the machine used for writing and testing the code. 
@@ -51,3 +54,8 @@ The following is a list of best practices for writing Dockerfiles:
 * Use `HEALTHCHECK` to check that the container is still working.
 * Use `SHELL` to change the default shell.
 * Use `--chown` flag to avoid permission issues.
+
+## Getting Started with Docker
+* [Docker overview](https://docs.docker.com/get-started/overview/)
+* [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
+* [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
