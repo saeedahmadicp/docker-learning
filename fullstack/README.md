@@ -19,16 +19,6 @@ command for enlisting the docker images
 docker images
 ```
 
-command for checking the logs of the docker container
-```bash
-docker logs <container id>
-```
-
-command for running the docker image
-```bash
-docker run -p 4000:4000 <image id>
-```
-
 command for stopping the docker compose
 ```bash
 docker-compose stop
