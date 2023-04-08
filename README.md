@@ -52,6 +52,9 @@ The following is a list of best practices for writing Dockerfiles:
 * Use `SHELL` to change the default shell.
 * Use `--chown` flag to avoid permission issues.
 
+## Resources
+* [Docker for Developers](https://www.linkedin.com/learning/docker-for-developers-14493163) on LinkedIn Learning
+
 ## Getting Started with Docker
 * [Docker overview](https://docs.docker.com/get-started/overview/)
 * [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
