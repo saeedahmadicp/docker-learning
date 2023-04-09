@@ -54,6 +54,7 @@ The following is a list of best practices for writing Dockerfiles:
 
 ## Resources
 * [Docker for Developers](https://www.linkedin.com/learning/docker-for-developers-14493163) on LinkedIn Learning
+* [Docker Essentials: A Developer Introduction](https://cognitiveclass.ai/courses/docker-essentials) on Cognitive class AI
 
 ## Getting Started with Docker
 * [Docker overview](https://docs.docker.com/get-started/overview/)
