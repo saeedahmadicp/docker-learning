@@ -60,3 +60,4 @@ The following is a list of best practices for writing Dockerfiles:
 * [Docker overview](https://docs.docker.com/get-started/overview/)
 * [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
 * [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+* [What Is a Dockerfile And How To Build It – Best Practices](https://spacelift.io/blog/dockerfile)
